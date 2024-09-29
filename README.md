@@ -8,9 +8,9 @@ To streamline this process, we've utilized the `deepface` library, a deep learni
 
 ### Initial Setup:
 
-1. Clone the repository: Execute `git clone https://github.com/ajitharunai/Facial-Emotion-Recognition-with-OpenCV-and-Deepface/`.
+1. Clone the repository: Execute `git clone https://github.com/Amandeep-Singh-Khalsa/Face-Sentiment-Analysis`.
 
-2. Navigate to the project directory: Run `cd Facial-Emotion-Recognition-using-OpenCV-and-Deepface`.
+2. Navigate to the project directory: Run `cd Face-Sentiment-Analysis`.
 
 3. Install required dependencies:
    - Option 1: Use `pip install -r requirements.txt`.
@@ -55,8 +55,6 @@ To streamline this process, we've utilized the `deepface` library, a deep learni
 13. Loop Termination: If the 'q' key is pressed, exit the loop.
 
 14. Cleanup: Release video capture resources and close all windows with `cap.release()` and `cv2.destroyAllWindows()`.
-
-If you find this project useful, consider giving it a ⭐ on the repository. The creator, [Ajith Kumar M](https://github.com/ajitharunai), invested time and effort into comprehending and implementing this efficient real-time emotion monitoring solution.
 
 Sure, let's break down the code step by step:
 
